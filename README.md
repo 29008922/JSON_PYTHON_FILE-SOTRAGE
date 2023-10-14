@@ -2,13 +2,14 @@
 file written in python to json
 lesson to learm
 1.json module
-how to import and use it the code
-2.json methods
- -load()
- -loads()
- -dump()
- -dumps()
+how to import and use in the code\n
 
-their implementations
+2.json methods\n
+ -load()\n
+ -loads()\n
+ -dump()\n
+ -dumps()\n
 
-THANKS TO ALX YOU ARE AWSOME 
+#their implementations
+
+THANKS TO ALX YOU ARE AWESOME 
